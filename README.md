@@ -1,4 +1,4 @@
-### Hello everyone 👋
+### Hi everyone 👋
 
 - :soccer: I love sports
 - :mortar_board: Studying Computer Science at Instituto Superior Técnico - Lisbon, Portugal
